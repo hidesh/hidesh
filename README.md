@@ -1,4 +1,5 @@
-<h1 align="center">Hello there 👋! I'm Hidesh Kumar</h1>
+<h1 align="center">Hello there 👋!</h1>
+<h1 align="center">I'm Hidesh Kumar</h1>
 <h3 align="center">A curious and committed full-stack developer passionate about building real-world solutions with modern web technologies.</h3>
 
 - 🌱 I’m currently learning **C#, Java (Spring) & Python**

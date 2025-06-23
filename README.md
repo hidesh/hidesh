@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Vue, and more!**
 
-- 📫 How to reach me **hidesh@live.dk**
+- 📫 How to reach me: **hidesh@live.dk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

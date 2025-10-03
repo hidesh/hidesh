@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C#, Java (Spring) & Ruby**
 
-- 💬 Ask me about **React, Vue, and more!**
+- 💬 Ask me about **AI, n8n, React, Vue, and more!**
 
 - 📫 How to reach me: **hidesh@live.dk**
 
